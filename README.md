@@ -32,7 +32,7 @@ V_out = V_in × [ 1 / (sRC + 1) ]
 ## 6. Final Transfer Function
 H(s) = 1 / (1 + sRC)
 
---
+---
 
 # RC Band-Pass Filter — Transfer function derivation
 
